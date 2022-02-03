@@ -1,4 +1,4 @@
-name: auto sign
+name: auto sign1
  
 on:
     push:
