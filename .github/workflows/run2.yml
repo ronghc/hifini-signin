@@ -1,4 +1,4 @@
-name: auto sign
+name: auto sign2
  
 on:
   workflow_dispatch:
