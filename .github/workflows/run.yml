@@ -1,4 +1,4 @@
-name: auto sign1
+name: 自动签到
  
 on:
     push:
